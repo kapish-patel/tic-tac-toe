@@ -1,5 +1,5 @@
 '''
-Todo: make a python script for playing tic - tac - toe game
+Todo: make a python script for playing tic - tac - toe game 
 Author: Kapish Patel
 '''
 import random
